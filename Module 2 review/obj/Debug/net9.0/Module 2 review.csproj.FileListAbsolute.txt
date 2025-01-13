@@ -1,0 +1,4 @@
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfoInputs.cache
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfo.cs
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.csproj.CoreCompileInputs.cache
