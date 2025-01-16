@@ -1,4 +1,6 @@
-﻿namespace Module_2_review;
+﻿using System.ComponentModel.Design;
+
+namespace Module_2_review;
 
 class Program
 {
@@ -46,5 +48,7 @@ class Program
             {
                 Console.WriteLine("Invalid input. Please enter a number.");
             }
+
+        }
     }
 }
