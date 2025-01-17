@@ -2,3 +2,13 @@ C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 r
 C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfoInputs.cache
 C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfo.cs
 C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.csproj.CoreCompileInputs.cache
+C:\Users\15756\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.exe
+C:\Users\15756\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.deps.json
+C:\Users\15756\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.runtimeconfig.json
+C:\Users\15756\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.dll
+C:\Users\15756\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.pdb
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.dll
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\refint\Module 2 review.dll
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.pdb
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.genruntimeconfig.cache
+C:\Users\15756\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\ref\Module 2 review.dll
